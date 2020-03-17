@@ -13,9 +13,7 @@ class Scrap :
             url = urlopen(url)
             bs = BeautifulSoup(url,'html.parser')
             title = bs.find('span',{'id' : 'productTitle'}).get_text().strip()
-            # print("Title:{}".format(title))
             price = bs.find('span',{'id' : re.compile('priceblock*') }).get_text()
-            # print("MRP:{}".format(price))
             price = price[2:len(price)]
             return title, price
         except HTTPError as e :

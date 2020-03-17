@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5f5551-0758-42be-a7d7-b1186aa66c5b" name="Default Changelist" comment="" />
+    <list default="true" id="9e5f5551-0758-42be-a7d7-b1186aa66c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/main_window/MainWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/main_window/MainWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/main_window/StartWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/main_window/StartWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/main_window/WishList.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/main_window/configFile1.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/main_window/configFile1.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/restart_window/AddToList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/restart_window/Restart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/restart_window/WishList.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/restart_window/__init__.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z2JV7yiXWJ447wRIrrtH2lNESA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,9 +36,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Desktop/main_window" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Desktop/main_window" />
+      <recent name="$PROJECT_DIR$/Desktop/Resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Desktop/main_window" />
+      <recent name="$PROJECT_DIR$/Desktop" />
+      <recent name="$PROJECT_DIR$/Desktop/Resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.StartWindow">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -40,6 +66,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desktop/MainWindow/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Restart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sem-4-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desktop/restart_window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desktop/restart_window/Restart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RestartWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sem-4-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desktop/main_window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desktop/main_window/RestartWindow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,9 +137,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sem-4-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desktop/main_window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desktop/main_window/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.StartWindow" />
+        <item itemvalue="Python.RestartWindow" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.Restart" />
         <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
@@ -98,29 +190,33 @@
       <screen x="0" y="27" width="1360" height="705" />
     </state>
     <state x="390" y="185" width="569" height="395" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1360.705@0.27.1360.705" timestamp="1584039521993" />
-    <state width="1338" height="162" key="GridCell.Tab.0.bottom" timestamp="1584044618432">
+    <state x="413" y="129" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584447551879">
       <screen x="0" y="27" width="1360" height="705" />
     </state>
-    <state width="1338" height="162" key="GridCell.Tab.0.bottom/0.27.1360.705@0.27.1360.705" timestamp="1584044618432" />
-    <state width="1338" height="162" key="GridCell.Tab.0.center" timestamp="1584044618431">
+    <state x="413" y="129" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1360.705@0.27.1360.705" timestamp="1584447551879" />
+    <state width="1338" height="162" key="GridCell.Tab.0.bottom" timestamp="1584452287239">
       <screen x="0" y="27" width="1360" height="705" />
     </state>
-    <state width="1338" height="162" key="GridCell.Tab.0.center/0.27.1360.705@0.27.1360.705" timestamp="1584044618431" />
-    <state width="1338" height="162" key="GridCell.Tab.0.left" timestamp="1584044618431">
+    <state width="1338" height="162" key="GridCell.Tab.0.bottom/0.27.1360.705@0.27.1360.705" timestamp="1584452287239" />
+    <state width="1338" height="162" key="GridCell.Tab.0.center" timestamp="1584452287238">
       <screen x="0" y="27" width="1360" height="705" />
     </state>
-    <state width="1338" height="162" key="GridCell.Tab.0.left/0.27.1360.705@0.27.1360.705" timestamp="1584044618431" />
-    <state width="1338" height="162" key="GridCell.Tab.0.right" timestamp="1584044618431">
+    <state width="1338" height="162" key="GridCell.Tab.0.center/0.27.1360.705@0.27.1360.705" timestamp="1584452287238" />
+    <state width="1338" height="162" key="GridCell.Tab.0.left" timestamp="1584452287237">
       <screen x="0" y="27" width="1360" height="705" />
     </state>
-    <state width="1338" height="162" key="GridCell.Tab.0.right/0.27.1360.705@0.27.1360.705" timestamp="1584044618431" />
+    <state width="1338" height="162" key="GridCell.Tab.0.left/0.27.1360.705@0.27.1360.705" timestamp="1584452287237" />
+    <state width="1338" height="162" key="GridCell.Tab.0.right" timestamp="1584452287238">
+      <screen x="0" y="27" width="1360" height="705" />
+    </state>
+    <state width="1338" height="162" key="GridCell.Tab.0.right/0.27.1360.705@0.27.1360.705" timestamp="1584452287238" />
     <state x="176" y="27" width="997" height="705" key="SettingsEditor" timestamp="1584041077523">
       <screen x="0" y="27" width="1360" height="705" />
     </state>
     <state x="176" y="27" width="997" height="705" key="SettingsEditor/0.27.1360.705@0.27.1360.705" timestamp="1584041077523" />
-    <state x="350" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1584044747549">
+    <state x="350" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1584447046634">
       <screen x="0" y="27" width="1360" height="705" />
     </state>
-    <state x="350" y="207" key="com.intellij.ide.util.TipDialog/0.27.1360.705@0.27.1360.705" timestamp="1584044747549" />
+    <state x="350" y="207" key="com.intellij.ide.util.TipDialog/0.27.1360.705@0.27.1360.705" timestamp="1584447046634" />
   </component>
 </project>
